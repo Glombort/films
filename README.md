@@ -6,7 +6,7 @@ Python script to run in terminal to choose a random movie from selected features
 - Language
 - Decade
 
-The list of movies was compiled in March 2021 of what was currently on my Netflix, Amazon Prime, Kanopy watchlists
+The list of movies was compiled in March 2021 of what was currently on my Netflix, Amazon Prime (Including BFI Player), Kanopy watchlists
 
 ### Future of project
 - Create a front-end to this (may involve changing from python to javascript
